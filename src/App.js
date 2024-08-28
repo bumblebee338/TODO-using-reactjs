@@ -55,7 +55,7 @@ function App() {
     <div className="App">
       
       <header>
-        <h1>RK's Todo List</h1>
+        <h1>React Todo List</h1>
       </header>
       <div className="container">
         <Form 

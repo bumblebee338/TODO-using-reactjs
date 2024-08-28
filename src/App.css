@@ -129,6 +129,7 @@ select {
   margin-left: 1rem;
   position: relative;
   overflow: hidden;
+  width: 235px;
 }
 select {
   color: #ff6f47;
